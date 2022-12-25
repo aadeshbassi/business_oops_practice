@@ -1,0 +1,24 @@
+﻿  Business.cpp
+D:\Workspace\projects\My_project\Business_model\Business.cpp(83,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Workspace\projects\My_project\Business_model\Business.cpp(84,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Workspace\projects\My_project\Business_model\Business.cpp(85,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Workspace\projects\My_project\Business_model\Business.cpp(91,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Workspace\projects\My_project\Business_model\Business.cpp(92,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Workspace\projects\My_project\Business_model\Business.cpp(101,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Workspace\projects\My_project\Business_model\Business.cpp(102,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Workspace\projects\My_project\Business_model\Business.cpp(103,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Workspace\projects\My_project\Business_model\Business.cpp(109,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Workspace\projects\My_project\Business_model\Business.cpp(110,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Workspace\projects\My_project\Business_model\Business.cpp(119,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Workspace\projects\My_project\Business_model\Business.cpp(120,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Workspace\projects\My_project\Business_model\Business.cpp(121,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Workspace\projects\My_project\Business_model\Business.cpp(127,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Workspace\projects\My_project\Business_model\Business.cpp(128,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Workspace\projects\My_project\Business_model\Business.cpp(136,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Workspace\projects\My_project\Business_model\Business.cpp(137,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Workspace\projects\My_project\Business_model\Business.cpp(138,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Workspace\projects\My_project\Business_model\Business.cpp(144,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Workspace\projects\My_project\Business_model\Business.cpp(145,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Source.cpp
+  Generating Code...
+  Business_model.vcxproj -> D:\Workspace\projects\My_project\Business_model\Debug\Business_model.exe

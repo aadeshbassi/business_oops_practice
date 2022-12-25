@@ -1,0 +1,2 @@
+D:\Workspace\projects\My_project\Business_model\Debug\Business_model.exe
+D:\Workspace\projects\My_project\Business_model\Debug\Business_model.pdb
